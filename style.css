@@ -1,0 +1,20 @@
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Helvetica;
+    }
+    #mapDiv {
+      position: absolute;
+      top: 43px;
+      bottom: 0;
+      right: 0;
+      left: 0;
+    }
+    #title {
+      display: inline-block;
+      width: 100%;
+      padding: 10px;
+      font-size: 20px;
+      background-color: #030200;
+      color: #f8f8f8;
+    }
